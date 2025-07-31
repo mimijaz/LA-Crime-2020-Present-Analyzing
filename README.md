@@ -1,4 +1,4 @@
-# LA-Crime-2020-Present-Analyzing
+# LA Crime Data Analysis
 LA Crime Data Analysis
 
 Goal: Analyze crime data from Los Angeles (2020–Present) to uncover trends, hotspots, and actionable insights for public safety and resource allocation.
@@ -14,6 +14,7 @@ Key Insights:
 * Visualized monthly and yearly crime trends to support data-driven decision-making
 
 Sample Visualizations:
+
 <img width="1057" height="636" alt="Screenshot 2025-07-31 at 16 43 01" src="https://github.com/user-attachments/assets/47c0a12e-50c0-4abf-920b-7c3ca98bd2a7" />
 
 Outcome:
